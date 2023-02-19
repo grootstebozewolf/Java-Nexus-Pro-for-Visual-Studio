@@ -24,7 +24,7 @@ Java Nexus MVP is released under the [MIT License](https://github.com/your-usern
 
 ## Support
 
-If you have any questions or issues with Java Nexus MVP, please feel free to [contact us](mailto:your-email@example.com) or submit an issue on GitHub. We're always happy to help and support our users in any way we can.
+If you have any questions or issues with Java Nexus MVP, please feel free to [contact us](https://discord.com/channels/1076893662761455688/1076894381434486864) or submit an issue on GitHub. We're always happy to help and support our users in any way we can.
 
 ## Acknowledgments
 
